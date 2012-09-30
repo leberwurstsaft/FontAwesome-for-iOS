@@ -7,7 +7,7 @@ In iOS the UILabel's vertical alignment tends to work well only for the built-in
 As soon as you use a custom font, it will most likely not be rendered centered on the label.
 The same applies to all kinds of UIControls etc. that have UILabel as a part of them (UIButton e.g.).
 
-The solution is given by Andy Yardley in an article here: dyyardley.com/2012/04/24/custom-ios-fonts-and-how-to-fix-the-vertical-position-problem/
+The solution is given by Andy Yardley in an article here: http://www.andyyardley.com/2012/04/24/custom-ios-fonts-and-how-to-fix-the-vertical-position-problem/
 
 Basically, the fonts have values for "ascender" and "descender" that are not working out nicely for iOS's rendering.
 
