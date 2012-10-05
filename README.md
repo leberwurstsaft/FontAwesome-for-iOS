@@ -15,6 +15,8 @@ I followed his instructions and pinpointed some values (probably not _the_ best,
 
 <img src="https://github.com/leberwurstsaft/FontAwesome-for-iOS/blob/master/before_after.png?raw=true">
 
+_(These are BButton instances with my FontAwesome category that you can find here: https://github.com/leberwurstsaft/BButton#use-with-fontawesome-icons)_
+
 Thanks to Dave @ twitter for FontAwesome!
 
 ##FontAwesome License
