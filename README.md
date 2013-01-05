@@ -1,7 +1,7 @@
 FontAwesome-for-iOS
 ===================
 
-** Now Updated to FontAwesome 3.0 ** (see differences at http://htmlpreview.github.com/?https://github.com/leberwurstsaft/BButton/blob/master/FontAwesomeIcons.html)
+**Now Updated to FontAwesome 3.0** (see differences at http://htmlpreview.github.com/?https://github.com/leberwurstsaft/BButton/blob/master/FontAwesomeIcons.html)
 
 FontAwesome fixed to have correct (at least much better) vertical alignment in iOS UILabel
 
