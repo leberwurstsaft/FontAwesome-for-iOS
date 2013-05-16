@@ -1,7 +1,7 @@
 FontAwesome-for-iOS
 ===================
 
-**Now Updated to FontAwesome 3.0** (see differences at http://htmlpreview.github.com/?https://github.com/leberwurstsaft/BButton/blob/master/FontAwesomeIcons.html)
+**Now Updated to FontAwesome ~~3.0~~ 3.1.1** (see differences and all new icons at http://htmlpreview.github.com/?https://github.com/leberwurstsaft/BButton/blob/master/FontAwesomeIcons.html)
 
 FontAwesome fixed to have correct (at least much better) vertical alignment in iOS UILabel
 
@@ -22,9 +22,9 @@ _(These are BButton instances with my FontAwesome category that you can find her
 Thanks to Dave @ twitter for FontAwesome!
 
 ##FontAwesome License
-Version 2.0 of the Font Awesome font, CSS, and LESS files are licensed under CC BY 3.0:
-http://creativecommons.org/licenses/by/3.0/
-A mention of 'Font Awesome - http://fortawesome.github.com/Font-Awesome'
-in human-readable source code is considered acceptable attribution (most common on the
-web). If human readable source code is not available to the end user, a mention in an 'About' 
-or 'Credits' screen is considered acceptable (most common in desktop or mobile software).
+The Font Awesome font is licensed under the SIL OFL 1.1:
+[http://scripts.sil.org/OFL]
+
+Attribution is no longer required as of Font Awesome 3.0, but much appreciated:
+
+Font Awesome by Dave Gandy - [http://fontawesome.io]
