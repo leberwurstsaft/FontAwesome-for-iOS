@@ -17,14 +17,18 @@ I followed his instructions and pinpointed some values (probably not _the_ best,
 
 <img src="https://github.com/leberwurstsaft/FontAwesome-for-iOS/blob/master/before_after.png?raw=true">
 
-_(These are BButton instances with my FontAwesome category that you can find here: https://github.com/leberwurstsaft/BButton#use-with-fontawesome-icons)_
+Thanks you for FontAwesome, Dave!
 
-Thanks to Dave @ twitter for FontAwesome!
+##Used in these projects##
+https://github.com/mattlawer/BButton
+
+https://github.com/alexdrone/ios-fontawesome
+
 
 ##FontAwesome License
 The Font Awesome font is licensed under the SIL OFL 1.1:
-[http://scripts.sil.org/OFL]
+http://scripts.sil.org/OFL
 
 Attribution is no longer required as of Font Awesome 3.0, but much appreciated:
 
-Font Awesome by Dave Gandy - [http://fontawesome.io]
+Font Awesome by Dave Gandy - http://fontawesome.io
